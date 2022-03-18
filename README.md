@@ -1,5 +1,5 @@
 # Climate Change Live API
-A Demo to show how to build your own API and host in on RapidAPI
+A Demo to show how to build your own API [https://climate-change-live-api-app.herokuapp.com/news](https://climate-change-live-api-app.herokuapp.com/news)
 
 ## To run this project
 
